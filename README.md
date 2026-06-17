@@ -1,4 +1,4 @@
-## Hi <img width="10" height="20" alt="image" src="[https://github.com/user-attachments/assets/130e0a1b-9d71-4aa8-af95-40cf17fc49ce](https://cdn3.emoji.gg/emojis/7722-tigerwave.png)" />
+## Hi <img src="https://cdn3.emoji.gg/emojis/7722-tigerwave.png" width="25" height="25" alt="wave" valign="middle">
 
 Lets Connect! [Link Text](https://orcid.org/0009-0008-6865-4306) [Link Text](https://uk.linkedin.com/in/ellenjdolan)
 
