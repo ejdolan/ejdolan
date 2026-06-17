@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ![alt text](https://cdn3.emoji.gg/emojis/7722-tigerwave.png)
 
 Lets Connect! [Link Text](https://orcid.org/0009-0008-6865-4306) [Link Text](https://uk.linkedin.com/in/ellenjdolan)
 
