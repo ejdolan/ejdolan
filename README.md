@@ -5,16 +5,18 @@
 ## Let's Connect!
 
 <a href="https://orcid.org/0009-0008-6865-4306">
-  <img src="https://cdn.simpleicons.org/orcid" width="35" alt="ORCID">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
 </a>
 
 <a href="https://uk.linkedin.com/in/ellenjdolan">
-  <img src="https://cdn.simpleicons.org/linkedin" width="35" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.researchgate.net/profile/Ellen-Dolan">
-  <img src="https://cdn.simpleicons.org/researchgate" width="35" alt="ResearchGate">
+<a href="https://www.researchgate.net/">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
 </a>
+
+
 
 
 
