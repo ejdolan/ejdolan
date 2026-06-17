@@ -25,7 +25,11 @@
 <br><br>
 
 <strong>Little bit about me</strong> <br>
-I am a final-year PhD researcher at Queen's University Belfast. My research focuses on how human activities alter river ecosystems, with particular interests in habitat fragmentation and biological invasions. Through a combination of large-scale ecological data analysis, field research, and experimental studies, I investigate how native and non-native species respond to environmental change and river restoration. My work examines the ecological consequences of reconnecting rivers through the removal of dams and weirs, as well as broader questions surrounding freshwater biodiversity loss and ecosystem resilience. I am particularly interested in how conservation actions can be adapted to maximise benefits for native species while avoiding unintended ecological consequences.
+I am a final-year PhD researcher at Queen's University Belfast. My research focuses on how human activities alter river ecosystems, with particular interests in habitat fragmentation and biological invasions. Through a combination of large-scale ecological data analysis, field research, and experimental studies, I investigate how native and non-native species respond to environmental change and river restoration. My work examines the ecological consequences of reconnecting rivers through the removal of dams and weirs, as well as broader questions surrounding freshwater biodiversity loss and ecosystem resilience. I am particularly interested in how conservation actions can be adapted to maximise benefits for native species while avoiding unintended ecological consequences. <br>
+PhD title <br>
+Assessing the ecological status of modified and natural rivers: ecological impacts, biological invasions, and trophic interactions <br>
+Supervisors: Dr Ross N Cuthbert and Prof Jaimie TA Dick
+
 
 
 
