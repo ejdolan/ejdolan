@@ -5,11 +5,10 @@
 <br>
 
 
-<strong>Let's Connect!</strong><br><br>
+<strong>Let's Connect!</strong><br>
 <a href="https://uk.linkedin.com/in/ellenjdolan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://orcid.org/0009-0008-6865-4306"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 <a href="https://www.researchgate.net/profile/Ellen-Dolan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-
 <br>
 
 <strong>Little bit about me</strong> <br>
