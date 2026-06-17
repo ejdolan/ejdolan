@@ -2,9 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="250"/>
 
-<strong>Let's Connect!</strong>
-
-<br>
+<strong>Let's Connect!</strong> <br>
 
 <a href="https://uk.linkedin.com/in/ellenjdolan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -24,7 +22,7 @@
 
 <br clear="right"/>
 
-<strong>Little bit about me</strong> <br><br>
+<strong>Little bit about me</strong> <br>
 I am a final-year PhD researcher at Queen's University Belfast. My research focuses on how human activities alter river ecosystems, with particular interests in habitat fragmentation and biological invasions. Through a combination of large-scale ecological data analysis, field research, and experimental studies, I investigate how native and non-native species respond to environmental change and river restoration. My work examines the ecological consequences of reconnecting rivers through the removal of dams and weirs, as well as broader questions surrounding freshwater biodiversity loss and ecosystem resilience. I am particularly interested in how conservation actions can be adapted to maximise benefits for native species while avoiding unintended ecological consequences.
 
 
