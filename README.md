@@ -16,6 +16,11 @@ Let's Connect!
 </a>
 
 
+
+
+
+
+
 Little bit about me:
 I am a final-year PhD researcher at Queen's University Belfast. My research focuses on how human activities alter river ecosystems, with particular interests in habitat fragmentation and biological invasions. Through a combination of large-scale ecological data analysis, field research, and experimental studies, I investigate how native and non-native species respond to environmental change and river restoration.
 
