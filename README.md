@@ -1,7 +1,5 @@
 ## Hi there 👋
 
 
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b034c8e2-9896-4ead-b278-2d44975d76d4" /> 
-
+![hippo](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
 
