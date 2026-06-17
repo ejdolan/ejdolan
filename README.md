@@ -22,17 +22,7 @@
 
 <br><br>
 
-<strong>Tools & Software</strong>
-
-<br>
-
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
-
-<img src="https://img.shields.io/badge/Inkscape-E0E0E0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"><img src="https://img.shields.io/badge/Inkscape-E0E0E0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
 
 
 <br clear="right"/>
