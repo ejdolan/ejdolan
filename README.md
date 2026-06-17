@@ -3,7 +3,7 @@
 <img align="right"
      src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"
      width="350"
-     style="margin-top: 30px;" />
+     style="margin-top: 50px;" />
 
 
 <strong>Let's Connect!</strong><br><br>
