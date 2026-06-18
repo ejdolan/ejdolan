@@ -15,7 +15,7 @@ Final-year PhD researcher at Queen's University Belfast, focusing on how human a
 
 <br>
 
-<strong>PhD title</strong> <br>
+<strong>PhD</strong> <br>
 Assessing the ecological status of modified and natural rivers: ecological impacts, biological invasions, and trophic interactions <br>
 Supervisors: Dr Ross N Cuthbert and Prof Jaimie TA Dick
 
